@@ -1,0 +1,21 @@
+@import '../../components/Dashboard/index.scss';
+.auth-container{
+    width: 100%;
+    .wrapper{
+        width: 40%;
+        margin: auto;
+    }
+    .form{
+        .footer{
+            .submit-btn{
+                width: 100%;
+            }
+            .link{
+                width: 100%;
+            }
+        }
+    }
+    .error-msg{
+        color: #e82828
+    }
+}
